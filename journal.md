@@ -4,3 +4,7 @@ Written by: ME !
 
 # Introdcution
 This is a very important problem that i have been working on.
+
+# References
+Snith, J (2020).
+Markello, R (2019).

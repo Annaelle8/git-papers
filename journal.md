@@ -1,6 +1,6 @@
 
-# This is my super cool paper
-Written by: ME !
+# This is our super cool paper
+Written by: ME, and John !
 
 # Introdcution
 This is a very important problem that i have been working on.

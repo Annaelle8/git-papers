@@ -2,12 +2,15 @@
 # This is my super cool paper
 Written by: ME !
 
-# Introdcution
+## Introdcution
 This is a very important problem that i have been working on.
 
-# Results
+## Results
 Really, really cool results.
 
-# References
+### Figures
+So beautiful, really. just the best.
+
+## References
 Smith, J (2020).
 Markello, R (2019).

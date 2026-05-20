@@ -1,6 +1,7 @@
 
 # This is my super cool paper
 Written by: ME !
+My affiliation: PolyMtl
 
 ## Introdcution
 This is a very important problem that i have been working on.

@@ -1,7 +1,9 @@
 
 # This is my super cool paper
 Written by: ME !
+
 And all of my friends, who are great.
+My affiliation: PolyMtl
 
 ## Introdcution
 This is a very important problem that i have been working on.
